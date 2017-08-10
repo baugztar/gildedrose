@@ -18,7 +18,4 @@ node {
     stage('replace') {
         
     }
-}node {
-
-echo 'Hello World'
 }
