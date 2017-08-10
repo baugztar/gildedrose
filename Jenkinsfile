@@ -14,8 +14,4 @@ node {
         archive 'target/*.jar'
         archive 'target/gildedrose-*.jar'
     }
-    
-    stage('replace') {
-        
-    }
 }
